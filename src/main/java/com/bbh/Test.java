@@ -14,6 +14,7 @@ public class Test {
         System.out.println("hello git");
         System.out.println("hello branch fix");
         System.out.println("hello idea");
+        System.out.println("hello github");
     }
     }
 
