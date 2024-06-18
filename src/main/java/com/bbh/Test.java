@@ -3,7 +3,7 @@ package com.bbh;
 /**
  * @ClassName:${NAME}
  * @Description:
- * @auther leaner_BBH
+ * @author leaner_BBH
  * @project Default (Template) Project
  * @date 2024/6/18
  *///TIP 要<b>运行</b>代码，请按 <shortcut actionId="Run"/> 或
