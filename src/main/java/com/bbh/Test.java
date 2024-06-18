@@ -10,7 +10,6 @@ package com.bbh;
 // 点击装订区域中的 <icon src="AllIcons.Actions.Execute"/> 图标。
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Hello");
-        System.out.println("hello git");
+            System.out.println("Hello");
         }
     }
